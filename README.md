@@ -1,5 +1,9 @@
 # 📱 Enterprise Mobile Device Management Platform — GSK × R&R Consulting IT
 
+> Designed & delivered by **Daniel Almazán** · IT Project Manager & Technical Architect
+
+---
+
 ![Power Platform](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -9,7 +13,9 @@
 
 > **Case Study — Enterprise Architecture Portfolio**
 > End-to-end design and delivery of a nationwide mobile device lifecycle management platform for a Fortune 500 pharmaceutical company, built on the Microsoft Power Platform and Azure cloud services.
-
+---
+> **⚠️ Confidentiality Notice**
+> This repository is a **public architecture case study only**. Per NDA agreements with the client organization, no proprietary source code, credentials, student data, or internal business logic is included. All references describe system capabilities at a design level to demonstrate architectural thinking, systems integration skills, and end-to-end project delivery.
 ---
 
 ## Table of Contents
@@ -359,11 +365,25 @@ Connected to Azure SQL via **DirectQuery** for real-time data. The dashboard inc
 
 ---
 
-## About the Author
+## About the Enterprise
 
 **Role:** IT Project Manager & Technical Architecture Lead
 **Engagement:** R&R Consulting IT → GSK (Nearshore)
 **Focus Areas:** Enterprise Architecture · Systems Integration · Power Platform · Azure Cloud · Business Intelligence
+
+---
+## Contact
+
+**Daniel Almazán**
+IT Project Manager · Technical Architect · Systems Integration Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-almazan-l/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.almazan.lopez16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_More-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielalmazan-manager?tab=repositories)
+
+---
+
+> *Designed, built, and documented end-to-end. From stakeholder interviews to DAX measures, from Flask microservices to field-staff training — this project represents the full spectrum of systems integration delivery.*
 
 ---
 
